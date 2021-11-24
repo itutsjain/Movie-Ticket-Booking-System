@@ -10,7 +10,7 @@ Booking, Payment, Seats.
 ### Login function
 It allows the user to login into the portal through their username and password.
 Once the correct combination of username and password is entered the user jumps to the main 
-menu from where he/she can their Old Bookings, Book Tickets, Check Showtime etc, else a popup message of unsuccessful login will appear.
+menu from where he/she can their Old Bookings, Book Tickets, Check Showtime etc, else a pop up message of unsuccessful login will appear.
 ### INSERT DETAILS
 It has no relation to the user; instead this functionality can be used only by the admin 
 to add movie details such as Movie Name, Showtime and Price per ticket to the portal.
@@ -25,12 +25,12 @@ It allows the user to see their previous transactions performed through the port
 done any file not found will be displayed.
 
 ## Details for login
-For user
+<b>For user</b>
 <br>
 username: user
 <br>
 password: user
-<br>For admin
+<b><br>For admin</b>
 <br>
 username: admin
 <br>
